@@ -1,0 +1,14 @@
+{
+  "wordpress": {
+    "host": "host.docker.internal",
+    "port": "3306",
+    "database": "exampledb",
+    "user": "exampleuser",
+    "password": "examplepass"
+  },
+  "udn": {
+    "account": "webadmin",
+    "reTryTimes": 3,
+    "sleepTime": 1500
+  }
+}
